@@ -1,0 +1,19 @@
+table,th,td{
+  border : 1px solid;
+}
+.edit{
+  color: black;
+  background-color: rgb(115, 186, 159);
+  margin-right: 30px;
+  padding: 5px 15px ;
+  
+}
+.delete{
+  color: black;
+  background-color: rgb(219, 170, 170);
+  padding: 5px 15px ;
+}
+table {
+  width: 40%;
+  text-align: center;
+}
